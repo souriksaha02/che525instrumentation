@@ -2,3 +2,9 @@
 # che525instrumentation
 
 We built a cabinet that contained control and power equipment for a coriolis flow meter, a pressure sensor, and an RTD. 
+
+|  | Coriolis Flow Meter | Pressure Sensor | RTD |
+|----------|----------|----------|----------|
+| Tag   | FIT-525A   | PIT-525A   | TE-525A   |
+| Manufacturer   | Row 2B   | Row 2C   | Row 2D   |
+| Model   | Row 3B   | Row 3C   | Row 3D   |
