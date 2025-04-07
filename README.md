@@ -9,7 +9,7 @@ These are the electrical equipment that was installed. It includes:
 * Breakers to mitigate issues if there is a surge in current
 * The DeltaV control equipment
 
-
+#Roles and Functions of the Equipment
 
 * The coriolis flow meter is a device that has many functions. Its main purpose to measure the flowrate of a fluid. But, it can also measure the density, the temperature, and more. It measures the flow rate through the phenomenon known as the Coriolis effect. 
 * The pressure sensor, as it's called, measures pressure using the deformation of a membrane (or diaphragm) under pressure, which is then converted into an electrical signal. 
